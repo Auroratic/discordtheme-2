@@ -25,7 +25,7 @@ body::after {
     z-index: -9999;
 }
 
-/* LOADING & INIT ANIMATIONS */
+/*LOADING & INIT ANIMATIONS*/
 .app,
 body::after {
     -webkit-animation: cv-fade 2s ease-out;
